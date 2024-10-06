@@ -9,3 +9,5 @@ In this assignment, we will be using explainable technique to explain the functi
 SHAP (SHapley Additive exPlanations) is a widely used method in machine learning that helps explain model outputs. It shows how much each feature contributes to a prediction, making it easier to interpret complex models like deep learning or ensemble methods, which are often seen as "black boxes."
 
 For an input sentence ["The professor handed me the ancient book, its pages yellowed with time,"], the model returned ["and I began to read"]
+
+<img width="1601" alt="Screenshot 2024-10-06 at 17 16 36" src="https://github.com/user-attachments/assets/fcc43edf-7e20-41ca-9079-3a0893be4e76">
